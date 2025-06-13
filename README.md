@@ -1,9 +1,4 @@
 # Hacking-Tools
-Here's a professional and informative `README.md` template for your GitHub repository named **"Hacking Tools"**. This template assumes that your repo contains a collection of tools related to ethical hacking, penetration testing, or cybersecurity research.
-
-You can customize the sections depending on your tools and how they work:
-
----
 
 ````markdown
 # Hacking Tools 🛠️
