@@ -98,3 +98,8 @@ Feel free to reach out or report issues via GitHub Issues or open a discussion.
 Stay safe and hack the planet — **ethically** 🌍🔐
 
 ```
+
+---
+
+Let me know if you'd like help generating a logo, organizing tools into folders, or adding badges (like stars, forks, or license badges) to the top of the README.
+
