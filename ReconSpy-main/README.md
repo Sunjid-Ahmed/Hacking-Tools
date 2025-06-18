@@ -1,7 +1,6 @@
 # ReconSpy
 <p align="center">
   <img src="https://img.shields.io/github/license/Sunjid-Ahmed/Hacking-Tools?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/github/last-commit/Sunjid-Ahmed/Hacking-Tools?label=last%20update&style=flat-square" alt="Last Commit" />
   <img src="https://img.shields.io/github/languages/top/Sunjid-Ahmed/Hacking-Tools?style=flat-square" alt="Top Language" />
 </p>
 
