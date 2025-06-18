@@ -1,0 +1,7 @@
+requests
+whois
+dnspython
+colorama
+shodan
+python-nmap
+flask

@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head><title>Results for {{ target }}</title></head>
+<body>
+    <h1>Recon Results for {{ target }}</h1>
+    <h2>WHOIS</h2><pre>{{ data['whois'] }}</pre>
+    <h2>DNS</h2><pre>{{ data['dns'] }}</pre>
+    <h2>Subdomains</h2><pre>{{ data['subdomains'] }}</pre>
+    <h2>Shodan</h2><pre>{{ data['shodan'] }}</pre>
+    <h2>Nmap</h2><pre>{{ data['nmap'] }}</pre>
+    <a href="/">Back</a>
+</body>
+</html>
