@@ -8,10 +8,6 @@
   
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sunjid-Ahmed/Hacking-Tools/main/ReconSpy-main/assets/banner.png" alt="ReconSpy Banner" />
-</p>
-
 <h1 align="center">🕵️‍♂️ ReconSpy</h1>
 <p align="center">
   Automated reconnaissance tool for information gathering, crafted for ethical hacking & penetration testing.
