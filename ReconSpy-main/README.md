@@ -1,4 +1,5 @@
 # ReconSpy
+![ReconSpy Logo](static/reconspy_logo.png)
 <p align="center">
   <img src="https://img.shields.io/github/license/Sunjid-Ahmed/Hacking-Tools?style=flat-square" alt="License" />
   <img src="https://img.shields.io/github/last-commit/Sunjid-Ahmed/Hacking-Tools?label=last%20update&style=flat-square" alt="Last Commit" />
@@ -18,8 +19,6 @@ Cyber security recon tool with WHOIS, DNS, Shodan, Nmap, and web interface.
 
 ````markdown
 # 🕵️‍♂️ ReconSpy
-
-![ReconSpy Logo](static/reconspy_logo.png)
 
 ReconSpy is a modular reconnaissance and intelligence-gathering tool for cybersecurity enthusiasts, bug bounty hunters, and penetration testers. It combines powerful modules like WHOIS, DNS enumeration, Shodan integration, Nmap scanning, and a web interface for accessible recon workflows.
 
