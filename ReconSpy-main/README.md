@@ -1,6 +1,6 @@
 # ReconSpy
 
-![ReconSpy Logo](static/reconspy_logo.png)
+![ReconSpy Logo](ReconSpy/reconspy_logo.png)
 
 <p align="center">
   <img src="https://img.shields.io/github/license/Sunjid-Ahmed/Hacking-Tools?style=flat-square" alt="License" />
