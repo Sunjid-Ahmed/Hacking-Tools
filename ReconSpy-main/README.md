@@ -1,4 +1,18 @@
 # ReconSpy
+<p align="center">
+  <img src="https://img.shields.io/github/license/Sunjid-Ahmed/Hacking-Tools?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/github/last-commit/Sunjid-Ahmed/Hacking-Tools?label=last%20update&style=flat-square" alt="Last Commit" />
+  <img src="https://img.shields.io/github/languages/top/Sunjid-Ahmed/Hacking-Tools?style=flat-square" alt="Top Language" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sunjid-Ahmed/Hacking-Tools/main/ReconSpy-main/assets/banner.png" alt="ReconSpy Banner" />
+</p>
+
+<h1 align="center">🕵️‍♂️ ReconSpy</h1>
+<p align="center">
+  Automated reconnaissance tool for information gathering, crafted for ethical hacking & penetration testing.
+</p>
 
 Cyber security recon tool with WHOIS, DNS, Shodan, Nmap, and web interface.
 
